@@ -1,0 +1,3 @@
+A webalkalmazás a 9578 port-ra közvetít.
+A futáshoz szükséges függőségeket a requirems.txt fájl tartalmazza.
+Az alkalmazást a flaskex.py Python kód futtatásával indítjuk el.

@@ -1,0 +1,3 @@
+A webalkalmazás az 5599 port-ra közvetít.
+A futáshoz szükséges függőségeket a fuggosegek.txt fájl tartalmazza.
+Az alkalmazást a flightpred.py Python kód futtatásával indítjuk el.
